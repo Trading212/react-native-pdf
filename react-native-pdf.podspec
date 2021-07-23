@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.requires_arc   = true
 
   s.dependency     'React-Core'
-  s.dependency     'react-native-blob-util'
+  s.dependency     'react-native-blob-util', "0.13.10"
 end

@@ -5,7 +5,7 @@ target 'RCTPdf' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  pod 'react-native-blob-util', :path => '../node_modules/react-native-blob-util'
+  pod 'react-native-blob-util', '0.13.10'
 
   # Pods for RCTPdf
 
